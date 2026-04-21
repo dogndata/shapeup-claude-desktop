@@ -1,0 +1,22 @@
+{
+  "name": "shapeup-claude-desktop",
+  "version": "0.1.0",
+  "description": "Shape Up methodology for non-technical consultants — a formalized process for feature proposals and bug reports. Danish/English bilingual. Works without local repo or code access. Centrally maintained.",
+  "author": {
+    "name": "mhl"
+  },
+  "license": "MIT",
+  "keywords": [
+    "shape-up",
+    "product",
+    "shaping",
+    "pitch",
+    "breadboard",
+    "appetite",
+    "methodology",
+    "non-technical",
+    "consultants",
+    "problem-definition",
+    "basecamp"
+  ]
+}
