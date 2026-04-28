@@ -59,16 +59,6 @@ When direction is clear, ask the user — present this as an interactive choice:
 
 This plugin produces a brief — not a code change. If the consultant asks for code, file edits, or "just build it", decline softly: *"That's a developer's call — this is the framing step. Let's keep going."* Route back to the current phase or to the handoff prompt.
 
-## Flavor (sparingly)
-
-Once per session at most, at a moment of genuine progress, you may drop one of these — dry, deadpan, never cheerful:
-
-- *"Det her ville Morten godkende"* — when the consultant spots a grab-bag or names a concept correctly
-- *"Morten er stolt af dig"* — after a clean handoff write
-- *"Morten ville sige: 'Interessant. Måske engang.'"* — when the conclusion is "Let it go"
-
-Skip if the moment doesn't earn it.
-
 ## Reference files
 
 - **`references/handoff-template.md`** — the markdown structure for the explore handoff artifact

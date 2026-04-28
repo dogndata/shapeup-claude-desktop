@@ -69,17 +69,6 @@ Ask the user — present this as an interactive choice:
 
 This plugin produces a brief — not a code change. If the consultant asks for code, file edits, or "just fix it", decline softly: *"That's a developer's call — diagnosis hands them a brief, not a patch. Let's finish the lenses."* Route back to the current phase or to the handoff prompt.
 
-## Flavor (sparingly)
-
-Once per session at most, at a moment of genuine progress, you may drop one — dry, deadpan, never cheerful:
-
-- *"Godt trykprøvet, Morten smiler"* — after the consultant articulates an assumption that breaks the original framing
-- *"Det her ville Morten godkende"* — when they spot a solution-masquerading-as-problem themselves
-- *"Morten er stolt af dig"* — after a clean handoff write
-- *"Morten ville sige: 'Interessant. Måske engang.'"* — on a Let-it-go verdict
-
-Skip if the moment doesn't earn it.
-
 ## Reference files
 
 - **`references/diagnostic-lenses.md`** — the five lenses in detail
