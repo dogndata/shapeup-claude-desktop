@@ -2,6 +2,8 @@
 
 Use this template to write the final shaped work document. Adapt sections as needed — not every pitch needs every section in full detail.
 
+**Handoff file path:** `docs/shapeup-handoff/<YYYY-MM-DD>-pitch-<slug>.md`
+
 ---
 
 ## [Pitch Title]

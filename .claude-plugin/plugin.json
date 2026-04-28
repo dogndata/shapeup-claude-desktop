@@ -1,7 +1,7 @@
 {
   "name": "shapeup-claude-desktop",
-  "version": "0.1.0",
-  "description": "Shape Up methodology for non-technical consultants — a formalized process for feature proposals and bug reports. Danish/English bilingual. Works without local repo or code access. Centrally maintained.",
+  "version": "0.2.0",
+  "description": "Shape Up methodology for non-technical consultants — a formalized process for feature proposals and bug reports. Danish/English bilingual. Routes intent automatically and produces handoff artifacts. Centrally maintained.",
   "author": {
     "name": "mhl"
   },

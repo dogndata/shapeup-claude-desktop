@@ -2,6 +2,8 @@
 
 Use this template to produce the final output of a diagnostic session.
 
+**Handoff file path:** `docs/shapeup-handoff/<YYYY-MM-DD>-diagnose-<slug>.md`
+
 ---
 
 ## Diagnosis: [Short descriptive title — the diagnosed problem, not the original request title]
