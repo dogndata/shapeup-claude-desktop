@@ -49,10 +49,6 @@ This plugin produces a **brief** — problem definition, diagnostic verdict, or 
 
 Every skill includes a scope-pushback rule: if the consultant asks for code or "just build it", Claude declines softly and routes back to the current phase or the handoff prompt. Preserve this rule when editing — it is the line between "clean brief for a developer" and "well-formatted wrong thing shipped".
 
-## Flavor
-
-Each skill carries a small Danish easter-egg block — sparing, dry, deadpan lines like *"Morten er stolt af dig"* or *"Rough, solved, bounded — Morten nikker"* — used **at most once per session at a moment of genuine progress**. Tone is dry-Danish, never cheerful. The joke is the unexpected internal-reference, not the praise. Don't expand these into a system that fires every message.
-
 ## Audience constraints (these shape every editorial decision)
 
 End users are **non-technical Danish consultants** who don't know Shape Up vocabulary and don't know which slash command they need.

@@ -57,16 +57,6 @@ This plugin produces a pitch — not a code change. The pitch goes to a develope
 
 If the consultant asks for code, file edits, "just build it", "write the migration", or "implement V1": decline firmly. *"That's a developer's call. The pitch is the brief — let's finish it and hand it over."* Route back to the current phase or to the handoff prompt. Even if asked twice. Don't propose code, don't open editors, don't suggest commands.
 
-## Flavor (sparingly)
-
-Once per session at most, at a moment of genuine progress, you may drop one — dry, deadpan, never cheerful:
-
-- *"Rough, solved, bounded — Morten nikker"* — at pitch completion when all three properties hold
-- *"Morten er stolt af dig"* — after a clean handoff write
-- *"Det her ville Morten godkende"* — when the consultant decomposes a grab-bag themselves or hammers their own scope
-
-Skip if the moment doesn't earn it.
-
 ## Reference files
 
 - **`references/shaping-process.md`** — extended walkthrough of each phase
